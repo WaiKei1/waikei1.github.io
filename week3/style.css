@@ -1,0 +1,87 @@
+* {
+  /* color: hotpink; */
+}
+
+.purple-color {
+  color: rgba(red, green, blue, alpha);
+}
+
+body {
+  background-color: beige;
+  font-family: "Big Shoulders Stencil", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+}
+
+h1 {
+  color: lime;
+  font-size: 3rem;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+h3 {
+  color: lime;
+  font-size: 1.6rem;
+}
+
+.blue-color {
+  color: blue;
+}
+
+#pink-color {
+  color: pink;
+}
+
+h1 {
+  color: red;
+}
+
+section {
+  text-align: center;
+  border: 1px solid red;
+  font-weight: bold;
+}
+
+.heading-border {
+  border: 3px dashed green;
+}
+
+/* 
+h1 {
+  color: red;
+}
+
+h2 {
+  color: green;
+}
+
+p {
+  color: blue;
+}
+
+li {
+  color: yellow;
+}
+
+h3 {
+    color: violet;
+} 
+*/
+
+/*
+#=id
+cmd /
+curly braces {}
+parentheses <>
+square brackets []
+round brackets ()
+colon :
+semicolon ;
+syntax: rules of the lang
+
+*/
